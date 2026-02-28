@@ -8,7 +8,7 @@ for i in range(5):
     for j in range(5):
         print(matriz[i][j], end="\t")
     print()    
-1
-2
+
+
  
     
